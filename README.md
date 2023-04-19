@@ -122,6 +122,3 @@ SOFTWARE.
 
 <hr>
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
-
-<p align="center">show some ❤️&nbsp; by giving a star to this repo!!</p>
